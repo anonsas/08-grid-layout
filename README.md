@@ -9,7 +9,7 @@ _39 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://anonsas.github.io/06-matrox-website/
+Site published at: https://anonsas.github.io/08-grid-layout/
 
 Design: [Grid Layout](in the design folder)
 
