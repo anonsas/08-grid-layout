@@ -1,0 +1,15 @@
+{
+  "name": "08-grid-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost"
+  },
+  "keywords": [],
+  "author": "Igor",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
